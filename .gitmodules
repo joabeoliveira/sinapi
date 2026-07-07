@@ -1,3 +1,7 @@
 [submodule "AutoSINAPI"]
 	path = AutoSINAPI
 	url = https://github.com/LAMP-LUCAS/AutoSINAPI.git
+
+[submodule "sinapi"]
+	path = externals/sinapi
+	url = https://github.com/joabeoliveira/sinapi
